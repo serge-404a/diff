@@ -1,3 +1,4 @@
+test линия
 cd ~/hdd/education/abstract/git
 
 
