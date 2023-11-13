@@ -66,4 +66,9 @@ libvirtd -d
 # 2. открыть virt-manager
 
 # ----------------------------
-
+#
+# установлен шрифт Cascadia Code от Microsoft Terminal
+#
+#
+# ----------------------------
+#
