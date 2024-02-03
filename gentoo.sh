@@ -42,7 +42,16 @@ rm /var/cache/distfiles/*
 #  * After world updates, it is important to remove obsolete packages with
 #  * emerge --depclean. Refer to `man emerge` for more information.
 #
-#  потом обновить ядро
+
+# CONFIGURATION FILES UPDATE TOOLS
+#        Tools such as dispatch-conf, cfg-update, and etc-update are also 
+#        available to aid in the merging of these files. They provide interactive 
+#        merging and can auto-merge trivial changes.
+# потом обновить ядро
+
+# Через dispatch-conf посмотреть различия, u - обновить. в /etc/sudoers может закомментить wheel, надо рутонуться будет после ребута
+# и раскомментить
+
 # ----------------------------
 # ДОКУМЕНТАЦИЯ по моему образу
 # ----------------------------
